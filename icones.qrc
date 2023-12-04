@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/images/icones/icones filemanager/a_propos.png</file>
+        <file>D:/images/icones/icones filemanager/coller.png</file>
+        <file>D:/images/icones/icones filemanager/copier.png</file>
+        <file>D:/images/icones/icones filemanager/couper.png</file>
+        <file>D:/images/icones/icones filemanager/new_file.png</file>
+        <file>D:/images/icones/icones filemanager/new_folder.png</file>
+        <file>D:/images/icones/icones filemanager/new_window.png</file>
+        <file>D:/images/icones/icones filemanager/new_window_home.png</file>
+        <file>D:/images/icones/icones filemanager/nv_fen.png</file>
+        <file>D:/images/icones/icones filemanager/nv_fen_ordinateur.png</file>
+        <file>D:/images/icones/icones filemanager/parent.png</file>
+        <file>D:/images/icones/icones filemanager/precedent.png</file>
+        <file>D:/images/icones/icones filemanager/proprietes.png</file>
+        <file>D:/images/icones/icones filemanager/quitter.png</file>
+        <file>D:/images/icones/icones filemanager/renommer.png</file>
+        <file>D:/images/icones/icones filemanager/suivant.png</file>
+        <file>D:/images/icones/icones filemanager/supprimer.png</file>
+        <file>D:/images/icones/Nouveau dossier/bureau.png</file>
+        <file>D:/images/icones/Nouveau dossier/desktop.png</file>
+        <file>D:/images/icones/Nouveau dossier/documents.png</file>
+        <file>D:/images/icones/Nouveau dossier/download (1).png</file>
+        <file>D:/images/icones/Nouveau dossier/download.png</file>
+        <file>D:/images/icones/Nouveau dossier/images.png</file>
+        <file>D:/images/icones/Nouveau dossier/musique.png</file>
+        <file>D:/images/icones/Nouveau dossier/ordinateur.png</file>
+        <file>D:/images/icones/Nouveau dossier/telechargements.png</file>
+        <file>D:/images/icones/Nouveau dossier/vidéos.png</file>
+        <file>D:/images/icones/Nouveau dossier/windows.png</file>
+        <file>D:/images/icones/Nouveau dossier/dossier.png</file>
+        <file>D:/images/icones/Nouveau dossier/root.png</file>
+        <file>D:/images/icones/Nouveau dossier/iconeapp.png</file>
+        <file>D:/images/icones/icones filemanager/rechercher.png</file>
+        <file>D:/images/icones/Nouveau dossier/dossier2.png</file>
+        <file>D:/images/icones/Nouveau dossier/fichier.png</file>
+    </qresource>
+</RCC>
